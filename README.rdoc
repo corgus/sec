@@ -1,5 +1,5 @@
 == SEC Filing Scraper
 
-&copy Corey Gravelle 2014
+to_html(&copy) Corey Gravelle 2014
 
 * Ruby version 1.9.3p484 (2013-11-22) [i386-mingw32]
